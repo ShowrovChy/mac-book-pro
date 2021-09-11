@@ -1,0 +1,10 @@
+.style-btn {
+  border: 1px groove gray;
+}
+.style-btn:hover {
+  background-color: rgb(92, 92, 92);
+  color: white;
+}
+.style-btn:focus {
+  border: 3px solid rgb(0, 162, 255);
+}
